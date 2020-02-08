@@ -1,8 +1,13 @@
 Goals
-	- Select random picture on boot and set background to it
+	+ Select random picture on boot and set background to it
 Extra
-	- change selection of pics depending on time of day
+	+ change selection of pics depending on time of day
 
 Requirements
-	- photos must be stored in /home/usr/Pictures/Wallpapers
+	- photos must be stored in /home/user/Pictures/Wallpapers
 	- must have gsetting 
+
+
+Key
+	- Working on
+	+ Done
